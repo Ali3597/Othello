@@ -1,0 +1,4 @@
+Début de la partie
+IA :  True
+difficulte :  difficile
+La taille du plateau pour cette partie est : 8
